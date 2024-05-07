@@ -1,0 +1,47 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://demo.themefreesia.com/breakingnews
+Data file = /home/themefre/public_html/demo/wp-content/uploads/sites/73/2023/08/covid-19report.WordPress.2020-04-19.xml
+Widget file = /home/themefre/public_html/demo/wp-content/uploads/sites/73/2023/08/demo.themespiral.com-covid19-widgets.wie
+Customizer file = /home/themefre/public_html/demo/wp-content/uploads/sites/73/2023/08/timesnews-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+T-Spiral: List Category Posts - No Title - Imported
+
+Side Header Banner : 
+
+Image - No Title - Imported
+
+TimesNews Template Main Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+T-Spiral: Category Slide - No Title - Imported
+T-Spiral: Blog Category Posts - No Title - Imported
+
+TimesNews Template Primary Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+Image - No Title - Imported
+
+TimesNews Template Secondary Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+Image - No Title - Imported
+Navigation Menu - No Title - Imported
+T-Spiral: Latest Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

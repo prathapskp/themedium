@@ -1,0 +1,104 @@
+
+---Downloaded files---
+The import files for: Breaking News were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://themedium.local
+Data file = /var/www/html/themedium/wp-content/plugins/theme-freesia-demo-import/files/dummy/breakingnews/breakingnews.xml
+Widget file = /var/www/html/themedium/wp-content/plugins/theme-freesia-demo-import/files/dummy/breakingnews/breakingnews-widgets.wie
+Customizer file = /var/www/html/themedium/wp-content/plugins/theme-freesia-demo-import/files/dummy/breakingnews/breakingnews-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Navigation Menu - No Title - Imported
+T-Spiral: List Category Posts - No Title - Imported
+
+Side Header Banner : 
+
+Image - No Title - Imported
+
+TimesNews Template Main Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+T-Spiral: Category Slide - No Title - Imported
+T-Spiral: Blog Category Posts - No Title - Imported
+
+TimesNews Template Primary Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+Image - No Title - Imported
+
+TimesNews Template Secondary Section : 
+
+T-Spiral: List Category Posts - No Title - Imported
+Image - No Title - Imported
+Navigation Menu - No Title - Imported
+T-Spiral: Latest Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
